@@ -1,0 +1,12 @@
+Audition.create(actor:, location:, phone:, hired:, role_id: role.id)
+Audition.create(actor:, location:, phone:, hired:, role_id: role.id)
+Audition.create(actor:, location:, phone:, hired:, role_id: role.id)
+Audition.create(actor:, location:, phone:, hired:, role_id: role.id)
+Audition.create(actor:, location:, phone:, hired:, role_id: role.id)
+
+Role.create(character_name:)
+Role.create(character_name:)
+Role.create(character_name:)
+Role.create(character_name:)
+Role.create(character_name:)
+Role.create(character_name:)
